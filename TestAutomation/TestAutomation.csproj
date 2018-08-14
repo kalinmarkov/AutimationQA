@@ -72,6 +72,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="DefinitionSteps\LoginDefinitionSteps.cs" />
     <Compile Include="Definitions\Login.feature.cs">
       <AutoGen>True</AutoGen>
